@@ -1,6 +1,8 @@
 import React from "react";
 import Licon from "../../components/Licon";
 import SlowTravelling from "../../components/SlowTravelling";
+import LatestArticle from "../latestarticles";
+import Sabscribe from "../sabscribe";
 
 function Home() {
   return (
@@ -58,6 +60,8 @@ function Home() {
         </div>
         <SlowTravelling />
       </div>
+      <LatestArticle/>
+      <Sabscribe/>
     </>
   );
 }
