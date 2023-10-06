@@ -8,7 +8,7 @@ import Fotter from "../../components/Fotter";
 function Home() {
   return (
     <>
-      <div className="bg-center bg-cover bg-no-repeat bg-[url('https://cdn.pixabay.com/photo/2016/08/23/13/08/iceland-1614272_1280.jpg')] w-full h-full p-10">
+      <div className="bg-center bg-cover bg-no-repeat bg-[url('https://c1.wallpaperflare.com/preview/107/877/312/model-male-black-sand-lava.jpg')] w-full h-full p-10">
         <div>
           <div className="flex items-center justify-between">
             <Licon />
