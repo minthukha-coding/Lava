@@ -17,5 +17,5 @@ function Sabscribe() {
     </>
   );
 }
-  
+
 export default Sabscribe;

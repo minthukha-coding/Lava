@@ -3,6 +3,7 @@ import Licon from "../../components/Licon";
 import SlowTravelling from "../../components/SlowTravelling";
 import LatestArticle from "../latestarticles";
 import Sabscribe from "../sabscribe";
+import Fotter from "../../components/Fotter";
 
 function Home() {
   return (
@@ -62,6 +63,7 @@ function Home() {
       </div>
       <LatestArticle/>
       <Sabscribe/>
+      <Fotter/>
     </>
   );
 }
